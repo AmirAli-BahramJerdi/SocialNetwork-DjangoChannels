@@ -3,7 +3,7 @@
 ### *Do the following steps in order:*
 
 
-+ git clone https://github.com/AmirAli-BahramJerdi/SocialNetwork-DjangoChannels
++ git clone https://github.com/AmirAli-BahramJerdi/SocialNetwork-DjangoChannels.git
 + pip install -r requirements.txt
 + pyhon manage.py makemigrations
 + pyhon manage.py migrate
