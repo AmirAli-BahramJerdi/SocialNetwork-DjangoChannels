@@ -1,0 +1,8 @@
+Do the following steps in order:
+	1. pip install requirements.txt
+	2. pyhon manage.py makemigrations
+	3. pyhon manage.py migrate
+	4. sudo docker run --rm -p 6379:6379 redis
+	5. python manage.py runserver
+	
+Hope to enjoy it.
